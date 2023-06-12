@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmingUI"]=self["webpackChunkmingUI"]||[]).push([[22],{3022:function(n,e,t){t.r(e),t.d(e,{default:function(){return s}});var u=t(3396),r=(0,u.aZ)({__name:"index",setup(n){return(n,e)=>{const t=(0,u.up)("ChooseIcon");return(0,u.wg)(),(0,u.iD)("div",null,[(0,u.Wm)(t,{title:"选择图标"})])}}});const i=r;var s=i}}]);
+//# sourceMappingURL=22.1d90bb39.js.map
