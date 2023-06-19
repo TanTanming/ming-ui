@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmingUI"]=self["webpackChunkmingUI"]||[]).push([[744],{4744:function(n,e,t){t.r(e),t.d(e,{default:function(){return r}});var u=t(3396),o=(0,u.aZ)({__name:"index",setup(n){const e=n=>{console.log(n)};return(n,t)=>{const o=(0,u.up)("ChooseCity");return(0,u.wg)(),(0,u.iD)("div",null,[(0,u.Wm)(o,{onChange:e})])}}});const s=o;var r=s}}]);
+//# sourceMappingURL=744.7c500791.js.map

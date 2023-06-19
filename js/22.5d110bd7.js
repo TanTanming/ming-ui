@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmingUI"]=self["webpackChunkmingUI"]||[]).push([[22],{3022:function(e,t,n){n.r(t),n.d(t,{default:function(){return a}});var u=n(3396);const s={class:"w-full h-full flex justify-center"};var c=(0,u.aZ)({__name:"index",setup(e){return(e,t)=>{const n=(0,u.up)("ChooseIcon"),c=(0,u.up)("Layout");return(0,u.wg)(),(0,u.iD)("div",s,[(0,u.Wm)(c,{class:"mt-8 h-3/4 justify-center items-center"},{default:(0,u.w5)((()=>[(0,u.Wm)(n,{title:"选择图标"})])),_:1})])}}});const r=c;var a=r}}]);
+//# sourceMappingURL=22.5d110bd7.js.map

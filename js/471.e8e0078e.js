@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmingUI"]=self["webpackChunkmingUI"]||[]).push([[471],{7471:function(e,n,t){t.r(n),t.d(n,{default:function(){return i}});var u=t(3396),l=t(4870);const s={class:"w-full h-full flex flex-col justify-center items-center"},c={name:""};var r=(0,u.aZ)({...c,setup(e){const n=(0,l.iH)(""),t=e=>{n.value=e,console.log(n.value)};return(e,n)=>{const l=(0,u.up)("Editor");return(0,u.wg)(),(0,u.iD)("div",s,[(0,u.Wm)(l,{"onUpdate:bindHtml":t})])}}});const a=r;var i=a}}]);
+//# sourceMappingURL=471.e8e0078e.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmingUI"]=self["webpackChunkmingUI"]||[]).push([[967],{7967:function(n,u,r){r.r(u),r.d(u,{default:function(){return s}});var e=r(3396);function t(n,u){const r=(0,e.up)("Tag");return(0,e.wg)(),(0,e.iD)("div",null,[(0,e.Wm)(r)])}var c=r(89);const i={},a=(0,c.Z)(i,[["render",t]]);var s=a}}]);
+//# sourceMappingURL=967.5948dcfd.js.map
